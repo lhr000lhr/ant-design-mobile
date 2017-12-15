@@ -1,43 +1,40 @@
 {
   "env": {
     "development": {
-      "presets": [
-        "react-native"
-      ],
+      "presets": ["react-native"],
       "plugins": [
         [
           "import",
           {
-            "libraryName": "antd-mobile",
-            "libraryDirectory": "components",
+            "libraryName":
+              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryDirectory": "components"
           }
         ]
       ]
     },
     "production": {
-      "presets": [
-        "react-native"
-      ],
+      "presets": ["react-native"],
       "plugins": [
         [
           "import",
           {
-            "libraryName": "antd-mobile",
-            "libraryDirectory": "components",
+            "libraryName":
+              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryDirectory": "components"
           }
         ]
       ]
     },
     "test": {
-      "presets": [
-        "react-native"
-      ],
+      "presets": ["react-native"],
       "plugins": [
         [
           "import",
           {
-            "libraryName": "antd-mobile",
-            "libraryDirectory": "components",
+            "libraryName":
+              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryDirectory": "components"
           }
         ]
       ]
