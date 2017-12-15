@@ -6,8 +6,7 @@
         [
           "import",
           {
-            "libraryName":
-              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryName": "antd-mobile",
             "libraryDirectory": "components"
           }
         ]
@@ -19,8 +18,7 @@
         [
           "import",
           {
-            "libraryName":
-              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryName": "antd-mobile",
             "libraryDirectory": "components"
           }
         ]
@@ -32,8 +30,7 @@
         [
           "import",
           {
-            "libraryName":
-              "antd-mobile-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom-datashare-custom",
+            "libraryName": "antd-mobile",
             "libraryDirectory": "components"
           }
         ]
